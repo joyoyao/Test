@@ -1,4 +1,4 @@
-package com.fffdo.gittest.test;
+package com.fffdo.gittest.test2;
 
 import com.fffdo.gittest.test2.Test1;
 

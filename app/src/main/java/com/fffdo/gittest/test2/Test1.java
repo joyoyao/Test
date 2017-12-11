@@ -1,7 +1,5 @@
 package com.fffdo.gittest.test2;
 
-import com.fffdo.gittest.test.Test3;
-
 /**
  * Created by yaozaiyong on 2017/12/11.
  */
