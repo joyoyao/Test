@@ -7,4 +7,6 @@ package com.fffdo.gittest.test;
 public class Test1 {
 
     private  String t2;
+
+    private  String t3;
 }
